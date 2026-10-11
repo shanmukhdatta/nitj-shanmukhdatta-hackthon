@@ -4,7 +4,7 @@
 **Candidate Name:** Shanmukh Datta  
 **College Email ID:** bodasd.ic.24@nitj.ac.in  
 **College / Campus:** National Institute of Technology Jalandhar (NIT Jalandhar)  
-**Demo Video Link:**  
+**Demo Video Link:**  [YOUTUBE](https://youtu.be/Uih2RR6mdLk)
 **Slide Deck Link:** [Repository PDF (docs/Presentation_.pdf)](docs/Presentation_.pdf) · [Google Drive Link](https://drive.google.com/file/d/1ySZRghGGWxB0SQZsvHdQ40yYgSAaQkuJ/view?usp=sharing)  
 **Live Demo Site Link:** https://nitj-shanmukhdatta-hackthon-lime.vercel.app/#how-it-works  
 
@@ -261,7 +261,7 @@ These figures are taken from files already committed in the repository. They are
 
 ### Demo and supporting documentation
 
-**YouTube Demo Video:**  
+**YouTube Demo Video:**  [YOUTUBE](https://youtu.be/Uih2RR6mdLk)
 **Presentation Deck:** [Repository PDF (docs/Presentation_.pdf)](docs/Presentation_.pdf) · [Google Drive Link](https://drive.google.com/file/d/1ySZRghGGWxB0SQZsvHdQ40yYgSAaQkuJ/view?usp=sharing)  
 **Live Demo Site:** https://nitj-shanmukhdatta-hackthon-lime.vercel.app/#how-it-works  
 
